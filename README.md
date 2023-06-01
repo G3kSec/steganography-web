@@ -10,15 +10,12 @@
 ## How To Use
 1. Clone the repository.
 ``` 
-git clone https://github.com/G3kSec/Web-Steganography-JS/
+git clone https://github.com/lucianogriffa/Web-Steganography-JS/
 ```
 2. Enter the folder.
 ```
 Web-Steganography-JS
 ```
 3. Run the file ``index.html``.
-
-![Screenshot_2023-05-27_12-34-10](https://github.com/G3kSec/steganography-web/assets/73656863/1b09eae9-61f5-4e0d-8ccc-54c068d4b075)
-
 
 # All Credits to [stylesuxx](https://github.com/stylesuxx)
