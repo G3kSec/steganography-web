@@ -10,7 +10,7 @@
 ## How To Use
 1. Clone the repository.
 ``` 
-git clone https://github.com/lucianogriffa/Web-Steganography-JS/
+git clone https://github.com/g3ksec/Web-Steganography-JS/
 ```
 2. Enter the folder.
 ```
