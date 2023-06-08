@@ -14,7 +14,7 @@ git clone https://github.com/G3kSec/steganography-web.git
 ```
 2. Enter the folder.
 ```
-Web-Steganography-JS
+cd steganography-web
 ```
 3. Run the file ``index.html``.
 
