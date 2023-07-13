@@ -18,5 +18,7 @@ cd steganography-web
 ```
 3. Run the file ``index.html``.
 
+![image](https://github.com/LucianoGriffa/steganography-web/assets/73656863/3fb06084-b6f0-48f4-81ef-3edb825100ae)
+
 
 # All Credits to [stylesuxx](https://github.com/stylesuxx)
